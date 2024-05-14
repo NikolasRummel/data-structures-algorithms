@@ -6,7 +6,6 @@ package de.dhbw.dsa;
  */
 public class LinearSearch {
 
-
     public int lienarSearch(int[] array, int key) {
         for (int i = 0; i < array.length; i++) {
             if (array[i] == key) {
